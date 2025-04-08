@@ -7,4 +7,4 @@ graph_two_link_animation: trajectory of manipulator.
 
 graph_input: graph of 2-norm of input. Comparison of FL input and added safety input is also shown.
 
-Onpaper_datas: ROS2 bag file datas of simulation situations on the submitted paper.
+ROS2bag_onpaper_datas: ROS2 bag file datas of simulation situations on the submitted paper.
